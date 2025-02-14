@@ -1,5 +1,5 @@
 {
-    "Version": 116,
+    "Version": 117,
     "ReleaseNotes": "PRIMEIRA MSG DE TESTE",
     "Sms": "https://shieldx.alphi.media/update/admin/sms",
     "UrlUpdate": "https://shieldx.alphi.media/update/admin/config",
