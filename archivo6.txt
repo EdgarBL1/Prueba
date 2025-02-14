@@ -1,5 +1,5 @@
 {
-    "Version": 122,
+    "Version": 123,
     "ReleaseNotes": "PRIMEIRA MSG DE TESTE",
     "Sms": "https://shieldx.alphi.media/update/admin/sms",
     "UrlUpdate": "https://raw.githubusercontent.com/EdgarBL1/Prueba/refs/heads/main/archivo6.txt",
@@ -80,7 +80,7 @@
             "Categoria": "1"
         },
         {
-            "Name": "Dhhdhdhhd",
+            "Name": "Telcel",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "",
@@ -95,7 +95,7 @@
             "ProxyPort": "",
             "ServerUser": "",
             "ServerPass": "",
-            "Info": "1",
+            "Info": "Tlsws",
             "Categoria": "1"
         },
         {
