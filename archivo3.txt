@@ -1,5 +1,5 @@
 {
-    "Version": 173,
+    "Version": 174,
     "ReleaseNotes": "PRIMEIRA MSG DE TESTE",
     "Sms": "https://shieldx.alphi.media/update/admin/sms",
     "UrlUpdate": "https://raw.githubusercontent.com/EdgarBL1/Prueba/refs/heads/main/archivo6.txt",
