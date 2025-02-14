@@ -1,5 +1,5 @@
 {
-    "Version": 186,
+    "Version": 189,
     "ReleaseNotes": "PRIMEIRA MSG DE TESTE",
     "Sms": "https://shieldx.alphi.media/update/admin/sms",
     "UrlUpdate": "https://api.github.com/repos/EdgarBL1/Prueba/contents/archivo6.txt",
