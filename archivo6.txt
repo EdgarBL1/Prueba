@@ -1,5 +1,5 @@
 {
-    "Version": 182,
+    "Version": 183,
     "ReleaseNotes": "PRIMEIRA MSG DE TESTE",
     "Sms": "https://shieldx.alphi.media/update/admin/sms",
     "UrlUpdate": "https://raw.githubusercontent.com/EdgarBL1/Prueba/refs/heads/main/archivo6.txt",
@@ -21,5 +21,25 @@
     "videoUrl": "",
     "logoonline": "https://i.imgur.com/ytXS5Aa.png",
     "fundoonline": "",
-    "Servers": []
+    "Servers": [
+        {
+            "Name": "Test",
+            "TYPE": "premium",
+            "FLAG": "br.png",
+            "ServerIP": "",
+            "CheckUser": "http://",
+            "Online": "http://",
+            "ServerPort": 22,
+            "SSLPort": 443,
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "ServerUser": "",
+            "ServerPass": "",
+            "Info": "1",
+            "Categoria": "1"
+        }
+    ]
 }
