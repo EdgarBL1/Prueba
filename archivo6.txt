@@ -1,5 +1,5 @@
 {
-    "Version": 118,
+    "Version": 119,
     "ReleaseNotes": "PRIMEIRA MSG DE TESTE",
     "Sms": "https://shieldx.alphi.media/update/admin/sms",
     "UrlUpdate": "https://shieldx.alphi.media/update/admin/config",
@@ -23,7 +23,7 @@
     "fundoonline": "",
     "Servers": [
         {
-            "Name": "CLARO REDES",
+            "Name": "Quien sabe",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "",
@@ -38,7 +38,7 @@
             "ProxyPort": "",
             "ServerUser": "",
             "ServerPass": "",
-            "Info": "1",
+            "Info": "Tlsws",
             "Categoria": "1"
         },
         {
