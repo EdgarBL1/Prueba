@@ -1,8 +1,8 @@
 {
-    "Version": 184,
+    "Version": 185,
     "ReleaseNotes": "PRIMEIRA MSG DE TESTE",
     "Sms": "https://shieldx.alphi.media/update/admin/sms",
-    "UrlUpdate": "https://raw.githubusercontent.com/EdgarBL1/Prueba/refs/heads/main/archivo6.txt",
+    "UrlUpdate": "https://api.github.com/repos/EdgarBL1/Prueba/contents/archivo6.txt",
     "EmailFeedback": "ultranetvpn@gmail.com",
     "UrlContato": "https://t.me/VEM_BRABO",
     "UrlTermos": "https://vembrabo.alphi.media/loja1",
