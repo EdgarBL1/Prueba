@@ -1,5 +1,5 @@
 {
-    "Version": 120,
+    "Version": 122,
     "ReleaseNotes": "PRIMEIRA MSG DE TESTE",
     "Sms": "https://shieldx.alphi.media/update/admin/sms",
     "UrlUpdate": "https://raw.githubusercontent.com/EdgarBL1/Prueba/refs/heads/main/archivo6.txt",
@@ -23,7 +23,7 @@
     "fundoonline": "",
     "Servers": [
         {
-            "Name": "Holasss",
+            "Name": "CLARO REDES",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "",
@@ -62,6 +62,25 @@
         },
         {
             "Name": "DIGICEL TESTTTTT",
+            "TYPE": "premium",
+            "FLAG": "br.png",
+            "ServerIP": "",
+            "CheckUser": "http://",
+            "Online": "http://",
+            "ServerPort": 22,
+            "SSLPort": 443,
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "ServerUser": "",
+            "ServerPass": "",
+            "Info": "1",
+            "Categoria": "1"
+        },
+        {
+            "Name": "Dhhdhdhhd",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "",
